@@ -1,28 +1,28 @@
 {
-  "username": "dotasakix114",
-  "user_id": 69671790073,
-  "sessionid": "69671790073%3ArhpWmJBNlBeIa2%3A13%3AAYkRdKINENPwle54a1CkLccCP6P_PTL4Dcuj2YMr2A",
+  "username": "dota9745",
+  "user_id": 62014043612,
+  "sessionid": "62014043612%3AP2usv4L8OzZoGF%3A1%3AAYl2qQ8BTSqwSu3X6aU9t2mSE-2QsUL2MgLRsLGoYA",
   "device_settings": {
     "uuids": {
-      "phone_id": "4bac2adc-d6e7-423c-9db4-af348fe9eae7",
-      "uuid": "b8542fe5-c810-4942-9049-dcc2e550af75",
-      "client_session_id": "ffcc2d10-da94-4abd-84a2-d83605f782d5",
-      "advertising_id": "e445f423-f61a-4477-aeda-a2402aaf7090",
-      "android_device_id": "android-1ef1525e21323c46",
-      "request_id": "05f6ef4b-08ac-435e-a3c5-9258d4a9bf9c",
-      "tray_session_id": "157699a5-05d6-448e-946c-e5b80b4fd43b"
+      "phone_id": "d59c5a2f-439a-42ff-b899-f3436a5b1f7e",
+      "uuid": "e35f939e-c822-44b1-a978-a04761ee52bb",
+      "client_session_id": "71166f5c-5c4b-4804-833b-88e87bfa3cd1",
+      "advertising_id": "fc6fc0a1-271f-49ac-83ff-852f90211c11",
+      "android_device_id": "android-bc4134624761be02",
+      "request_id": "6e6a4695-5782-4024-9c85-b41174a495ce",
+      "tray_session_id": "47734e95-3dcc-474c-9f9e-cac23aa6378d"
     },
-    "mid": "auWf2QABAAHYEMi21km1QOmv2scx",
+    "mid": "auimiwABAAG_w7KDCVK5akd5Iskw",
     "ig_u_rur": "VCN",
-    "ig_www_claim": "hmac.AR2RSZXMBlSKzTAAMdZBrjjDROwe1Q7W08VnNV42I01J-iUd",
+    "ig_www_claim": "hmac.AR2bB5tHqURLpG81mWvtBwVVacON6QRXsLycUXAwrQ1HbU0n",
     "authorization_data": {
-      "ds_user_id": "69671790073",
-      "sessionid": "69671790073%3ArhpWmJBNlBeIa2%3A13%3AAYkRdKINENPwle54a1CkLccCP6P_PTL4Dcuj2YMr2A"
+      "ds_user_id": "62014043612",
+      "sessionid": "62014043612%3AP2usv4L8OzZoGF%3A1%3AAYl2qQ8BTSqwSu3X6aU9t2mSE-2QsUL2MgLRsLGoYA"
     },
     "cookies": {
-      "rur": "EAG%2C17841469782198973%2C1794643169%3A01ff586e1125c11af9eb8194d44e9241e472e8d0bb2214a344a31a14dda4e69ac4cb5f7e"
+      "rur": "HIL%2C17841462028371755%2C1794841491%3A01ffb4c2f88ebdd77be1b8fa53a955ac71f32587935e39ac79652783d7392849c8ff9802"
     },
-    "last_login": 1793433575.7213778,
+    "last_login": 1793631896.671654,
     "device_settings": {
       "android_version": 34,
       "android_release": "14",
@@ -62,11 +62,11 @@
     "public_transport_impersonate": "chrome136",
     "tls_verify": true,
     "usdid": {
-      "usdid": "c32c943f-79b6-4215-85e9-6b85c25ec5b5",
-      "kid": "JBLGhNM41UQ9NYyg6FIsoQHPTB4eyXfRXxSg4upMTFI",
-      "private_key": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgYtDw5ydcWTpyOeH0\nuyIz8nD8sLZthAowj5EfS7rvFcGhRANCAASFqDYksT+VyqIzsec4UOEcjEsnFxx1\n4QVB68zg49aBAj/2GL+rzuZ/9h9GQm+mKbz5Lmdjs0UQAxJkmiRrGwZD\n-----END PRIVATE KEY-----",
+      "usdid": "451f88c5-ed02-4667-ae31-5b6c7039a8df",
+      "kid": "vRVIgVSlTEtlmaCrgPfG-12hM29Ht6-LiwrhncFDeMw",
+      "private_key": "-----BEGIN PRIVATE KEY-----\nMIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgphqkJwVlhf5nSesO\ntH4q4S4v5gi242+1M9h5dlB5gbqhRANCAAQLVCEj4mL0DjrtGqGaF2HnGU7rAnmO\nsk3ZIPmdIwuTUa5b0BNrGIvn9DAm1MVJMu0Gg61zhxiAgWNrgpqA+h5C\n-----END PRIVATE KEY-----",
       "registered": true
     }
   },
-  "saved_at": "2026-10-31T07:59:35.721702"
+  "saved_at": "2026-11-02T15:04:56.672370"
 }
